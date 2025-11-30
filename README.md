@@ -1,3 +1,5 @@
+# Just rename the .nw file to a .zip file
+
 # C3-PACK-Decompiler
 Coverts Package.nw to Package.zip
 
